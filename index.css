@@ -63,7 +63,7 @@ p  {
 .grid-container > footer {
   background-color: rgba(57,61,71, 0.8);
   color: rgb(255,255,255);
-  text-align: center;
+  text-align: left;
   padding: 20px 0;
   font-size: 10px;
 }
@@ -71,6 +71,7 @@ p  {
 .footerAbout {
   text-decoration: underline;
   font-size: 10px;
+  text-align: left;
   }
 
 .firstpage {
