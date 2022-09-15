@@ -7,9 +7,9 @@ p  {
 .item1 { grid-area: header; }
 .item2 { grid-area: nav; }
 .item3 { grid-area: section; }
-.item4 { grid-area: aside; }
-.item5 { grid-area: footer; }
-.item6 { grid-area: section2; }
+.item4 { grid-area: section2; }
+.item5 { grid-area: aside; }
+.item6 { grid-area: footer; }
 
 .grid-container {
   display: grid;
