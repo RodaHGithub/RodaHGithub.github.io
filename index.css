@@ -65,11 +65,12 @@ p  {
   color: rgb(255,255,255);
   text-align: center;
   padding: 20px 0;
-  font-size: 30px;
+  font-size: 10px;
 }
 
 .footerAbout {
   text-decoration: underline;
+  font-size: 10px;
   }
 
 .firstpage {
