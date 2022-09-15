@@ -73,13 +73,18 @@ p  {
   text-decoration: underline;
   font-size: 20px;
   text-align: left;
+  margin: 70;
   }
 
 .footerTitle {
   font-size: 28px;
   text-align: left;
+  margin: 70;
   } 
 
+.footerText {
+  margin: 70;
+}
 .asideText {
   font-size: 25px;
   color: rgb(255,255,255);
