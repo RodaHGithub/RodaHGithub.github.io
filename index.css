@@ -85,9 +85,18 @@ p  {
   color: rgb(255,255,255);
 }
 
-.home-image {
+.section1-image {
   float: right;
-  height: 60px;
+  height: 100px;
+  margin: 50px;
+}
+
+.section-text {
+  text-align: left;
+}
+
+.section-link {
+  text-align: left;
 }
 
 .asideLink {
