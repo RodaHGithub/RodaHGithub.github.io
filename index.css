@@ -87,7 +87,7 @@ p  {
 
 .home-image {
   float: right;
- 
+  height: 60px;
 }
 
 .asideLink {
