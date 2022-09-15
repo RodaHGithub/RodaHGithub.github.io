@@ -68,6 +68,9 @@ p  {
   font-size: 30px;
 }
 
+.footerAbout {
+  text-decoration: underline;
+  }
 
 .firstpage {
   color: rgb(255,255,255);
