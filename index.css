@@ -31,9 +31,10 @@ p  {
 }
 
 .grid-container > header {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(1,115,92, 0.8);
   text-align: center;
-  padding: 20px 0;
+  color: (255,255,255);
+  padding: 60px;
   font-size: 30px;
 }
 
