@@ -12,8 +12,9 @@ p  {
 .item2 { grid-area: nav; }
 .item3 { grid-area: section; }
 .item4 { grid-area: section2; }
-.item5 { grid-area: aside; }
-.item6 { grid-area: footer; }
+.item5 { grid-area: section3; }
+.item6 { grid-area: aside; }
+.item7 { grid-area: footer; }
 
 .grid-container {
   display: grid;
