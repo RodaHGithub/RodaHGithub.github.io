@@ -15,7 +15,7 @@ p  {
   grid-template-areas:
     'header header header header header header'
     'nav section section section aside aside'
-    'mnav footer footer footer footer footer';
+    'nav footer footer footer footer footer';
   gap: 10px;
   background-color: #2196F3;
   padding: 10px;
