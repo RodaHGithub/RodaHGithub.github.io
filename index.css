@@ -41,6 +41,7 @@ p  {
 
 .grid-container > nav {
   background-color: rgba(255, 255, 255, 0.8);
+  color: rgb(255,255,255);
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
