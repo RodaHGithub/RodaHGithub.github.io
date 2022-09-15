@@ -73,17 +73,17 @@ p  {
   text-decoration: underline;
   font-size: 20px;
   text-align: left;
-  margin: 70;
+  margin: 70px;
   }
 
 .footerTitle {
   font-size: 28px;
   text-align: left;
-  margin: 70;
+  margin: 70px;
   } 
 
 .footerText {
-  margin: 70;
+  margin: 70px;
 }
 .asideText {
   font-size: 25px;
@@ -91,6 +91,18 @@ p  {
 }
 
 .section1-image {
+  float: right;
+  height: 150px;
+  margin: 70px;
+}
+
+.section2-image {
+  float: right;
+  height: 150px;
+  margin: 70px;
+}
+
+.section3-image {
   float: right;
   height: 150px;
   margin: 70px;
