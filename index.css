@@ -90,6 +90,11 @@ p  {
   color: rgb(255,255,255);
 }
 
+.aside-img {
+  margin:40px;
+  height: 300px;
+}
+
 .section1-image {
   float: right;
   height: 150px;
