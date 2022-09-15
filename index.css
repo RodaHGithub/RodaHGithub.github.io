@@ -9,6 +9,7 @@ p  {
 .item3 { grid-area: section; }
 .item4 { grid-area: aside; }
 .item5 { grid-area: footer; }
+.item6 { grid-area: section2; }
 
 .grid-container {
   display: grid;
@@ -16,7 +17,7 @@ p  {
     'header header header header header header'
     'nav nav nav nav nav nav'
     'section section section section aside aside'
-    'section section section section aside aside'
+    'section2 section2 section2 section2 aside aside'
     'footer footer footer footer footer footer';
   gap: 10px;
   background-color: #2196F3;
