@@ -8,7 +8,7 @@ h1 {
 p  {
 }
 
-.item1 { grid-area: header; }
+.item1 { grid-area: header;}
 .item2 { grid-area: nav; }
 .item3 { grid-area: section; }
 .item4 { grid-area: section2; }
@@ -33,7 +33,7 @@ p  {
 .grid-container > header {
   background-color: rgba(1,115,92, 0.8);
   text-align: center;
-  color: (255,255,255);
+  color: rgb(255,255,255);
   padding: 60px;
   font-size: 30px;
 }
