@@ -79,6 +79,11 @@ p  {
   text-align: left;
   } 
 
+.asideText {
+  font-size: 25px;
+  color: rgb(255,255,255);
+}
+
 .firstpage {
   color: rgb(255,255,255);
 }
