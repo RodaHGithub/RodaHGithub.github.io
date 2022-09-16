@@ -29,7 +29,7 @@ p  {
   background-color: #417571;
   padding: 10px;
   border-radius: 25px;
-  grid-template-rows: minmax(0, 1fr) 300px;
+  grid-template-rows: 100px 300px;
 }
 
 .grid-container > header {
