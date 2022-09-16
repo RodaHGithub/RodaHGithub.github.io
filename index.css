@@ -159,6 +159,11 @@ p  {
   margin: 70px;
 }
 
+.aside-copyright {
+  text-align: center;
+  font-size:10px;
+}
+
 .secret {
   color: rgb(255,255,255);
 }
