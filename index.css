@@ -28,6 +28,7 @@ p  {
   gap: 10px;
   background-color: #417571;
   padding: 10px;
+  border-radius: 25px;
 }
 
 .grid-container > header {
