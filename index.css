@@ -150,7 +150,12 @@ p  {
 .copyright {
   color: rgb(255,255,255);
   text-align: left;
-  font-size: 15px;
+}
+
+.home-copyright {
+  color: rgb(0,0,0,);
+  text-align: right;
+  font-size: 5px;
   margin: 70px;
 }
 
