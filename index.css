@@ -122,6 +122,7 @@ p  {
 .section-text {
   text-align: left;
   margin: 70px;
+  font-size: 10px;
 }
 
 .section-link {
