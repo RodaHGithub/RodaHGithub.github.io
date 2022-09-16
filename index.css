@@ -107,6 +107,7 @@ p  {
   margin:4px;
   width: 300px;
   height: 1160px;
+  border-radius: 6px;
 }
 
 .section1-image {
