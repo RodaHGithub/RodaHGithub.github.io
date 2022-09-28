@@ -165,13 +165,13 @@ p  {
 .home-copyright {
   color: rgb(0,0,0);
   text-align: left;
-  font-size: 10px;
+  font-size: 20px;
   margin: 70px;
 }
 
 .aside-copyright {
   text-align: center;
-  font-size:10px;
+  font-size:20px;
   color: rgb(255,255,255);
 }
 
